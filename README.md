@@ -14,3 +14,12 @@ reviews on paper around a table, and this was put together to facilitate printin
 code in our standard format.
 
 So thankful for pull requests and their ilk in the modern day.
+
+primcrafters
+------------
+
+I once made a bunch of fake money in Second Life selling glasses. They did some shit like turn
+into sunglasses, change color, all that jazz. This is the source code.
+
+Also included is the PHP-based web frontend I used for sales tracking. None of it really works 
+but it's basically the only PHP I ever wrote.

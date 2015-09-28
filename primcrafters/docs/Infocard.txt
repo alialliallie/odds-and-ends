@@ -1,0 +1,7 @@
+Primcrafters offers two types of frames, basic and scripted.
+----------
+Basic Frames (most $75):
+These are your no-nonsense, what you see is what you get frames. For $75 you get a pair of glasses or sunglasses right off the rack, sizable to fit onto your avatar. Choose from any of the styles available.
+
+Scripted Frames (most $125):
+Stepping up from the basic frames, scripted frames contain the ability to change on your every whim. You can change the shading from clear for night or indoors to heavily tinted for those hot sunny days, and everything in between. You can also change the color of the lenses, choosing from a wide variety of preset colors (including a color for each matching sim) or specify your own from red, green, and blue values. Finally, you can automate both these functions. Your glasses can change from clear at night to full shaded at noon without you having to interact. Or if you prefer they can change colors to match the sim you're in (or black, if the sim isn't a color name).

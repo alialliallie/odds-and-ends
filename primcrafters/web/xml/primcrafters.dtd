@@ -1,0 +1,14 @@
+<!ELEMENT primcrafters (buyer*|sale*|error)>
+<!ELEMENT buyer (name, purchase+)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT purchase (frame, type, price, location, date, time)>
+<!ELEMENT frame (#PCDATA)>
+<!ELEMENT type (#PCDATA)>
+<!ELEMENT price (#PCDATA)>
+<!ELEMENT location (#PCDATA)>
+<!ELEMENT date (#PCDATA)>
+<!ELEMENT time (#PCDATA)>
+
+<!ELEMENT sale (name, purchase)>
+
+<!ELEMENT error (#PCDATA)>

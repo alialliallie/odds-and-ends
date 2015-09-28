@@ -1,0 +1,49 @@
+Your glasses will accept six commands, all of them start with !sg:
+
+alpha (0-100): this sets the transparency of the lenses from 0 (fully) to 100 (solid). low values under 25 work well as normal glasses, high values above 75 work well for sunglasses.
+Example: !sg alpha 75
+
+color (name): set the color of the lenses to one of the predefine color names. These colors are black, white, grey, reg, green, blue, brown, cyan, magenta, orange, purple, and yellow
+If you have more ideas for colors, please IM Cienna Rand!
+Example: !sg color blue
+
+colorvec (red),(green),(blue): Set the color of the lenses to an arbitrary color using RGB notation. Each value for red, green, and blue should be in the range 0-255
+Example: !sg colorvec 128,0,255
+
+auto: Sets the glasses to auto-tint based on the time of day. Full daylight is equivalent to alpha 80, night time is equivalent to alpha 0.
+Example: !sg auto
+
+colorsim: Sets the glasses to set their lens color based on the current sim you are in. For instance they will be olive colored in Olive, lime green in Lime, etc. (for sims which are not color names, they will color black)
+Example: !sg colorsim
+
+autosim: Sets the glasses to automatically change color based on sim. Works like colorsim but automatically.
+Example: !sg autosim
+
+Full Color list with R,G,B values:
+grey, gray: 128,128,128
+red: 255,0,0
+green: 0,255,0
+blue: 0,0,255
+brown: 153,102,51
+cyan: 0,255,255
+magenta: 255,0,255
+orange: 255,127,0
+purple: 127,0,127
+yellow: 255,255,0
+white: 255,255,255
+chartreuse: 118,238,0
+crimson: 220,20,60
+indigo: 75,00,130
+maroon: 128,0,64
+mauve: 203,78,97
+mocha: 128,64,0
+olive: 128,128,0
+slate: 112,128,144
+bisque: 255,228,196
+aqua: 0,128,255
+lime: 128,255,0
+rose: 255,193,193
+teal: 0,128,128
+plum: 128,0,128
+sage: 139,137,64
+tan: 210,180,140
